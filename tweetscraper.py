@@ -31,13 +31,7 @@ def tweets(username,since,upto,maxtweets):
     return tweets_df
 
 
-# In[17]:
 
-
-#tweets('TimesNow','2023-05-01','2023-05-31',10000)
-
-
-# In[ ]:
 
 
 
